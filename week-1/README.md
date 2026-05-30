@@ -17,5 +17,5 @@ The dataset contains 1000 product records with 24 attributes including product d
 
 ## Files
 - week1.ipynb
--dataset.csv
+- dataset.csv
 - cleaned_dataset.csv
